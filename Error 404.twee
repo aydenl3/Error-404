@@ -1,0 +1,1050 @@
+:: StoryTitle
+Error 404
+
+
+:: StoryData
+{
+  "ifid": "FDDACF5D-17E2-44EF-BB29-7C9272D0264F",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Content Warning",
+  "zoom": 0.6
+}
+
+
+:: \ .. {"position":"1050,3500","size":"100,100"}
+(enchant:?page,(text-colour:#343a40)+(bg:white))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [[...-> FriendsHouse]]
+
+
+:: \ FriendsHouse {"position":"625,4275","size":"100,100"}
+Hands shaking, you dial the number she gave you into the phone. 
+(Live:2s)[BZZZ BZZZ BZZZ]
+(Live:5s)+(text-colour:#BAFFCD )[Hi, can I help you?]
+(Live:7s)[Hi, umm... this is Jade, Paige's sister... Can I talk to Paige?]
+(Live:9s)+(text-colour:#BAFFCD )[Uhh... 
+Paige and I are just about to leave... 
+but okay..]
+(Live:11s)+(text-colour:#BAFFCD )[Paige, it's for you...]
+(Live:13s)+(text-colour:#0c8599)[Jade? How did you get this number? Why didn't you just call me?]
+(Live:15s)[You don't answer... you never answer...]
+(Live:17s)+(text-colour:#0c8599)[What..? You didn't even call me...]
+(Live:19s)[It doesn't matter. Paige, you need to stay at Jaime's. Please. You are in danger...]
+(Live:21s)+(text-colour:#0c8599)[Is this about your earthquake paper? Jade, you were supposed to be working on that all week. School is the one area I thought you actually applied yourself at...]
+(Live:23s)[What is that supposed to mean?]
+(Live:25s)+(text-colour:#0c8599)[Look, I don't want to fight again, okay? besides, I have to go, Jaime's waiting for me, we're about to get food.]
+(Live:27s)[I need to talk about this Paige. Please.]
+(Live:29s)+(text-colour:#0c8599)[Jade, listen, I can't be the one to always deal with your problems. I know now that Dad's gone things have been tough, but I have my own life to explore, my own responcibilities to deal with. Do you get that?]
+(Live:31s)[I understand....]
+(Live:33s)+(text-colour:#0c8599)[I'm not Dad.]
+(Live:36s)+(text-colour:#0c8599)[The amount of things I've had to plunge headfirst into, the amount of new things ive had to learn just to keep us afloat has been immensely stressful. I cant be watching over you 24/7 as well.]
+(Live:39s)+(text-colour:#0c8599)[You have to be able to deal with your own problems, and find your own solutions. I won't be here to smooth over everything in your life, and pick up all your slack Jade. ]
+(Live:41s)[Paige... ]
+(Live:43s)[Your life is in danger. Please, stay where you are.]
+(Live:45s)+(text-colour:#0c8599)[Jade, I don't have time for this, I'm going to be late...]
+
+
+(Live:46s)[''LISTEN TO ME!'']
+
+(Live:50s)[you will die. In an earthquake.]
+(Live:51s)[at 4:04 PM, Today, if you leave right now.]
+(Live:53s)[This isn't just my research project, it's actually going to happen.]
+(Live:55s)+(text-colour:#0c8599)[How could you possibly know-]
+(Live:57s)[You have to trust me. Please.]
+(Live:59s)[I know you have been under an incredible amount of stress.]
+(Live:61s)[I know that I haven't gone out to do things, or meet people, but that doesn't mean I'm not taking any responcibility over my life. ]
+(Live:53s)[Im just taking things slowly.]
+(Live:55s)[I want to be successful, I just move at a different pace. I'm slow to growth, and I am so sorry you don't have the luxury to be. ]
+(Live:60s)[These past few hours I maybe have gotten the slightest glimpse as to what it's like to pursue a goal you can't achieve, to try to accomplish something that seems impossible.]
+(Live:63s)[
+Please. Just stay at Jaime's. Trust me for once...
+[[Close your eyes...->PlayerLiveEndingGood]]
+]
+
+
+
+:: ... {"position":"1400,1200","size":"100,100"}
+(enchant:?page,(text-colour:#343a40)+(bg:white))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [[...->404]]
+
+
+:: .... {"position":"1400,1625","size":"100,100"}
+(enchant:?page,(text-colour:#343a40)+(bg:white))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [[...->Bedroom2]]
+
+
+:: ..... {"position":"725,3800","size":"100,100"}
+(enchant:?page,(text-colour:#343a40)+(bg:white))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [[...->bedroom3]]
+
+
+:: ...... {"position":"925,2450","size":"100,100"}
+(enchant:?page,(text-colour:#343a40)+(bg:white))
+
+
+(set:$Attempts to $Attempts + 1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                       [[...->reset2]]
+
+
+:: 404 {"position":"1375,1350","size":"100,100"}
+(t8n:"dissolve")+(t8n-time:10s)+(link-reveal:"Error 404
+Page not found")[=
+
+Blast. You would think that a university with such an elaborate computer science program wouldn't have this issue. Ah well. Maybe its a wifi issue?
+
+
+(Live:10s)[wait... what?]
+(Live:15s)[what happened? Why are you here? ]
+(Live:18s)[did you just...]
+(Live:20s)[time travel?]
+(Live:22s)[you look at the time on your computer, which displays 3:40. Your watch says the same.]
+(Live: 25s)[that means... ]
+(Live:28s)[you could warn Paige?!]
+(Live:30s)[you quickly try to call her, your fingers fumbling through your short list of contacts.]
+(live:33s)[Bzzzzzzz]
+(live:36s)[Bzzzzzzz]
+(live:39s)[Bzzzzzzz]
+(Live:42s)+(text-colour:#0c8599)[Hey! sorry, but I can't make it to the phone right now! Leave a message!]
+(Live:44s)[BEEEEP!]
+(Live:45s)[you hang up the phone.
+ Paige isn't answering her phone. It must be silenced... or maybe she's preoccupied?]
+(Live:48s)[She will call you at 4:04 though, you realize...]
+(Live:50s)[... which is when... the earthquake happens...]
+(Live:53s)[ [[wait for her call...->405]]]
+
+
+
+:: 404 Page {"position":"600,275","size":"100,100"}
+(t8n:"dissolve")+(t8n-time:10s)+(link-reveal:"Error 404
+Page not found")[=
+
+
+
+Blast. You would think that a university with such an elaborate computer science program wouldn't have this issue. Ah well. Maybe its a wifi issue?
+
+[[Refresh the page...->Refresh computer]]
+[[Step away from the computer...->Bedroom]]
+
+
+(set: $Minutes to 40)
+(set:$Hour to 3)
+(set:$HaveWatch to False)
+(set:$HaveWallet to False)
+(set:$HaveKeys to False)
+(set:$DoorLocked to False)
+(set:$HaveRamen to False)
+(set:$Laptop to False)
+(set:$FoundBike to False)
+(set:$HaveBike to False)
+(set:$Attempts to 1)
+(set:$Shortcut to False)
+(if:$Minutes > 60)[ (set:$Hour to ($Hour + 1))(set:$Minutes to $Minutes - 60)]
+(if:$Minutes is 60)[(set:$Hour to ($Hour + 1))(set:$Minutes to 0)]
+(if:$Minutes < 10)[$Hour:0$Minutes]
+(else:)[$Hour:$Minutes]
+
+
+
+:: 405 {"position":"1500,1475","size":"100,100"}
+You sit with bated breath, not moving a muscle. You don't want to screw this up. In the longest twenty minutes of your life you watch the clock.
+
+(live:2s)[4:00]       (Live:3s)[.]      (Live:5s)[.]    (Live:7s)[.]
+(Live:9s)[4:01]       (Live:11s)[.]      (Live:13s)[.]    (Live:15s)[.]
+(Live:17s)[4:02]      (Live:19s)[.]      (Live:21s)[.]    (Live:23s)[.]
+(Live:25s)[4:03]      (Live:27s)[.]      (Live:29s)[.]    (Live:31s)[.]
+(Live:33s)[4:04]      (Live:37s)[.]      (Live:41s)[.]    (Live:45s)[.]
+(Live:50s)[BZZZZ]
+(Live:51s)[(link-reveal:"Answer")[=
+
+(text-colour:#0c8599)[Hey... 
+listen, I-]
+(Live:2s)+(text-colour:#e03131)[The room thrashes and tumbles violently, sending furniture falling everywhere.]
+(Live:3s)+(text-colour:#e03131)[You hear Alpha's tank fall to the floor with a loud crash.]
+(Live:5s)+(text-colour:#e03131)[Paige screams through the phone. ]
+
+(Live:7s)[You desperately yell, telling her to run, but there is no answer...]
+
+(Live:12s)[[[twist the watch again...->....]]]
+]
+
+
+:: Alarm Clock {"position":"400,600","size":"100,100"}
+Picking up the alarm clock, you find that the glass has been chipped, and the numbers inside flicker faintly. The alarm clock reads: 
+
+
+(if:$Minutes > 60)[ (set:$Hour to ($Hour + 1))(set:$Minutes to $Minutes - 60)]
+(if:$Minutes < 10)[$Hour:0$Minutes]
+(else:)[$Hour:$Minutes]
+
+
+
+[[Step away...->Bedroom]]
+
+
+
+:: Bed {"position":"400,500","size":"100,100"}
+
+Your bed is small, with many pillows. You could take a nap if you want... but also you got up maybe four hours ago... Paige would be so annoyed to find you asleep again...
+
+(if:$Laptop is True)[
+well... Paige's laptop isnt here. Neither is she. Nothing to do about it...
+[[Nap...->Nap]]
+]
+(if:$Laptop is False)[
+Plus before giving up you should at least try to find a way to access your work...]
+
+<!--(t8n:"blur")+(t8n-time:3s)+(link-rerun:"Nap")[  
+You fall into sleep... Your not quite sure for how long...(set:$Minutes to $Minutes + 10)]-->
+
+[[Step Away...->Bedroom]]
+
+
+
+
+:: Bedroom {"position":"600,500","size":"100,100"}
+(set:$Minutes to $Minutes + 1)
+
+You glance around your room, noting your computer, still proudly displaying "Error 404" buzzing in the corner. Your nightstand with your valuables, and a photograph rests by the bed. The alarm clock is still on the floor from last night. 
+
+
+
+
+
+
+[[Computer->Refresh computer]]
+[[Nightstand...->Nightstand]]
+[[Alarm Clock...->Alarm Clock]]
+[[Bed...->Bed]]
+[[Door...->Common Room]]
+
+
+
+
+
+:: Bedroom2 {"position":"1150,1600","size":"100,100"}
+(t8n:"dissolve")+(t8n-time:10s)+(link-reveal:"Error 404
+Page not found")[=
+
+
+
+Blast. You would think that a university with such an elaborate computer science program wouldn't have this issue. Ah well. Maybe its a wifi issue?
+
+(Live:10s)[You understand how this works now.]
+(Live:12s)[At 4:04 there will be an earthquake.]
+(Live:14s)[Paige will die.]
+(Live:16s)[Your watch lets you go back in time, to this very moment, at 3:40]
+(Live:18s)[You have 24 minutes to save her.]
+(Live:20s)[The question is... where is she? or who is she with?
+
+[[The Grocery Store...->Im unsure... ]]
+[[Studying with Amanda for Physics->Im unsure... ]]
+[[At the Bank->Im unsure... ]]
+[[Studying for Calc with Jaime->Common Room 2]]
+[[In Physics class with Richard->Im unsure... ]]
+[[At the Dry Cleaners->Im unsure... ]]
+[[Im unsure...->Im unsure... ]]
+
+]
+
+
+:: Bedroom2A {"position":"425,1625","size":"100,100"}
+The starting point for trying to contact her. Any subsequent resets will bring you here until you make it there.
+
+[[CONTACT->CONTACT]]
+
+
+:: Bike Closet {"position":"1450,1850","size":"100,100"}
+You manage to pull your bike from the closet, but it takes a while, and is strenuous work.
+
+(t8n:"slide-left")+(link:"Take Bike")[Bike Taken(set:$HaveBike to True)]
+
+
+By the time you wheel the bike into the elevator and get to the street it would be 3:55. Thats cutting it awfully close. Alternatively... you could take try to ride down the stairwell?
+[[Stairwell...->Stairwell Warning]]
+[[Elevator...->Hallway]]
+
+
+:: BikeCloset {"position":"400,950","size":"100,100"}
+The closet is small, and dusty. You keep your bike here, but don't use it often, prefering to walk to where you need to go. It's crammed and twisted into the closet, and your not even sure if it will still ride.
+
+[[return->Common Room]] 
+(set:$FoundBike to True)
+
+
+:: Bridge {"position":"1575,4400","size":"100,100"}
+Eventually you make it to the bridge, but its too late. you reach your sister only to both die at the bridge. 
+[[PlayerDeathEnding]]
+
+
+:: COD {"position":"1225,850","size":"100,100"}
+You sit up in your chair, and start the game...
+
+(Live:10s)[BZZZZZZ BZZZZZZ BZZZZZ]
+
+(Live:13s)[Your phone is ringing.
+It's from Paige. 
+
+[[Answer Phone->Phone Call]]
+[[Ignore Phone->Ignore Call]]
+]
+
+
+:: CONTACT {"position":"250,1800","size":"100,100"}
+[[TIMELINE 3->TIMELINE3]]
+Radio Station
+
+
+:: Calendar {"position":"875,1025","size":"100,100"}
+Paige's Calendar reads:
+
+Physics, 7:00-9:00, MF, with Richard 
+CSE, 12:00-1:00, TH F, with Amanda
+Calculus, 2:00- 3:30, MWF, with Jaime (Test Tommorow!)
+
+looking at the calender, you realize today is Tuesday! huh. Its funny how easy it is to forget sometimes...
+[[return...->Paige's Room]]
+
+
+:: Call Jamie {"position":"1300,4000","size":"100,100"}
+This time, you try to tell her to not take the bridge. She tells you that its the fastest way, and that you sound crazy. 
+
+[[Try to convince Jaime that there is a faster way...->]]
+[[ask to speak to Paige...->]]
+
+
+:: Common Room {"position":"600,700","size":"100,100"}
+You step out of your room, into a small room that serves as kitchen, common space, and dining area for the small apartment that you share with your sister. 
+
+Oh, and your Beta fish Alpha. Alpha's tank stands by the north wall, undeneath the mantle. On the mantle is a photograph.
+
+A small dining table lays in the middle of the room, complaining under the weight of a large bag of rice and a bag of groceries. A lonely receipt has fallen out of the bag. 
+
+A microwave, sink, rice cooker, and minifridge serve as your kitchen, all tucked away in the corner of the room, by the closet. 
+
+The door to Paige's room is opposite to yours.
+
+<!--(if: $HaveKeys is True)[(t8n:"slide-left")+(link:"Lock Door")[Door Locked(set:$DoorLocked to True)]]-->
+
+[[Go back inside to your room...->Bedroom]]
+[[Fish tank... ->Fish Tank]]
+[[Mantle... ->Mantle]]
+[[Table..->Table]]
+[[Microwave...->Microwave]]
+[[Paige's Room...->Paige's Room Warning]]
+[[Closet...->BikeCloset]]
+
+
+
+:: Common Room 2 {"position":"1275,1725","size":"100,100"}
+Yes, that makes sense... thats why the textbook is missing...
+
+[[Let's find her...->Common Room2]]
+
+
+:: Common Room2 {"position":"1150,1800","size":"100,100"}
+You step out of your room, into the common room.
+
+Alpha's tank is now upright. Dad smiles at you from the mantle. He's gone, but Paige doesn't have to be. Dad, did you know?
+
+The dining table lays in the middle of the room, the note lying innocently next to the bag of rice.
+
+The front door to the apartment looms menacingly in front of you. 
+
+(if: $Attempts is 1)[Jaime's place is a 40 minute walk away. You don't have that kind of time, and Paige's car is the only car between the two of you.]
+(if: $Attempts > 1)[Time to try again.]
+
+[[I'll just have to go faster...->Hallway]]
+
+(if: $FoundBike is True)[
+[[Good thing you have a bike...->Bike Closet]]]
+
+
+(set:$KnewName to True)
+
+
+:: CommonRoom3 {"position":"1600,3900","size":"100,100"}
+If player had bike, describe how the bike wouldnt be able to get to the bridge fast enough. 
+[[break into car and try to drive there->break in]]
+[[bus]]
+
+
+:: Content Warning {"position":"550,125","size":"100,100"}
+Content Warning: This game includes descriptions of death and dying.
+
+
+[[->->404 Page]]
+
+
+:: Desk {"position":"900,1175","size":"100,100"}
+Paige's desk is very orderly. A desk lamp looms over the desk, watching over a picture of her and her friend... 
+(Live:3s)[Jaime? was her name?] 
+(Live:4s)[Paige's laptop is nowhere to be seen.] 
+(Live:6s)[Damn. Ah well. You did what you could. Now what... maybe Ramen? or you could try to finish that playthrough of Majora's mask...
+(set:$Laptop to True)
+[[return...->Paige's Room]]
+]
+
+
+:: Elevator {"position":"1125,2075","size":"100,100"}
+The elevator is small, and dirty.
+
+[[Press the G button...->Lobby]]
+[[Press the Roof button...->Roof]]
+
+
+
+
+:: Fish Tank {"position":"400,725","size":"100,100"}
+The fish tank is pretty large, holding eight gallons of water. You know this because you remember when you and Paige got him. It's full of many plants, and Alpha is swimming around slowly in the tank near the bottom. He looks well fed, even though you keep forgetting to feed him...
+
+[[return...->Common Room]]
+
+
+:: Grocerie Bag {"position":"875,650","size":"100,100"}
+Inside the grocery bag are several packages of microwave Ramen, a box of strawberries labled "on sale", and a Liter of milk.
+
+(t8n:"slide-left")+(link:"Take Ramen")[Ramen Taken(set:$HaveRamen to True)]
+
+[[close the bag...->Table]]
+
+
+:: Hallway {"position":"1175,1950","size":"100,100"}
+The hallway to your apartment complex is long, and smells like mildew. An elevator lays at the hallways end. A clock ticks slowly on the wall, and reads (if:$Minutes > 60)[ (set:$Hour to ($Hour + 1))(set:$Minutes to $Minutes - 60)]
+(if:$Minutes < 10)[$Hour:0$Minutes]
+(else:)[$Hour:$Minutes]
+
+
+[[Head to the elevator...->Elevator]]
+
+
+:: Ignore Call {"position":"1150,1125","size":"100,100"}
+You ignore the call. You don't want to talk to her right now. The argument from last night is still running through your mind, replaying over and over. No matter how hard you tried to ignore it, you can't help but think about it. 
+
+You are about to put down the phone...
+(Live:10s)+(text-colour:#e03131)[The room thrashes and tumbles violently, sending furniture falling everywhere.]
+(Live:15s)+(text-colour:#e03131)[You hear Alpha's tank fall to the floor with a loud crash.]
+(Live:20s)+(text-colour:#e03131)[You sit in disbelief, in fear, at the attack unfolding around you. Your computer smashes itself against the wall, and crumples to the floor. ]
+(Live:25s)[Suddenly it stops.]
+
+(Live:30s)[You are okay. The apartment is a mess. What would Pai- ]
+(Live:35s)[oh god.]
+(Live:35.5s)[Paige.]
+(Live:37s)[Frantically you call her back, trying to get a hold of her.]
+(Live:40s)+(text-colour:#e03131)[She doesn't answer]
+(Live:45s)[you sink to the floor.]
+(Live:50s)[sunlight streams from your window, cheerily shining on your stricken face.]
+(Live:55s)[the alarm clock feebly flickers 
+                                       4:04]
+(Live:60s)[you fold your face in your hands. "Maybe she's okay" you tell yourself. She has to be...]
+(Live:66s)[//Click//]
+(Live:68s)[Something in the watch on your wrist shifts, and a bright light blasts your face. You shield your eyes...
+[[...]]
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[I have played this before and I want to skip this long scene->Bedroom2]]
+
+
+:: Im unsure... {"position":"775,1900","size":"100,100"}
+You have no idea where Paige might be, or who she's with... but maybe you could try to find out where an accident happens in the city, and she might be there?
+
+[[scour the news...]]
+[[head to the roof...->Roof]]
+
+(set:$KnewName to False)
+
+
+:: Im unsure...\  {"position":"1025,1725","size":"100,100"}
+Theres not really much evidence to support that... You realize you have no idea where she is...
+
+[[...->Im unsure...]]
+
+
+:: Lobby {"position":"1200,2200","size":"100,100"}
+The lobby is dimly lit. No people are here, and several scratched up sofas rest here. 
+
+[[Head outside...->Street]]
+
+
+
+
+
+:: Mantle {"position":"400,1075","size":"100,100"}
+The mantle is empty, besides a picture of Dad. You miss him.
+
+[[Return...->Common Room]]
+
+
+:: Microwave {"position":"400,825","size":"100,100"}
+Some food that you made has spilt in the microwave, and you never bothered to clean it.
+
+(if: $HaveRamen is True)+(if:$Laptop is True)[
+You unwrap the package of Ramen, careful not to rip the instructions. Carefully, you follow the microwaveable instructions step by step. Paige makes fun of you for this, but you can never seem to remember all the steps.
+(Live:4s)[00:15]
+(Live:5s)[00:14]
+(Live:6s)[00:13]
+(Live:7s)[00:12]
+(Live:8s)[00:11]
+(Live:9s)[00:10]
+(live:10s)[00:09]
+(Live:11s)[00:08]
+(Live:12s)[00:07]
+(Live:13s)[00:06]
+(Live:14s)[00:05]
+(Live:15s)[00:04]
+(Live:16s)[00:03]
+(Live:17s)[00:02]
+(Live:18s)[00:01]
+(Live:19s)[BEEEEEEEEEEEP BEEEEEEEEEP BEEEE- 
+You silence the microwave by opening it's door.
+
+
+
+
+[[sit down to eat]]
+]  ] 
+
+
+
+
+
+[[Return...->Common Room]]
+
+
+:: Nap {"position":"1100,825","size":"100,100"}
+You fall into sleep...
+
+
+(Live:10s)[BZZZZZZ BZZZZZZ BZZZZZ]
+
+(Live:13s)[Your phone is ringing.
+It's from Paige. 
+
+[[Answer Phone->Phone Call]]
+[[Ignore Phone->Ignore Call]]
+]
+
+
+:: Nightstand {"position":"400,400","size":"100,100"}
+On your nightstand lay your valuables. You are happy to find all your things here at once... 
+(Live: 3s)[ah shoot.]
+(Live: 4s)[your watch is missing.]
+(Live: 5s)[Dad gave you that watch too...]
+(Live: 6s)[He would be so disapointed...]
+(Live: 8s)[OH just kidding, your wearing the watch! phew. crisis averted.
+
+Also on the nightstand is a framed picture of you, Paige, and Dad, smiling up at you. You remember the stranger you asked to take the picture was very tall.]
+
+
+
+(t8n:"slide-left")+(link:"Take Wallet")[Wallet Taken(set:$HaveWallet to True)]
+
+(t8n:"slide-left")+(link:"Take Keys")[Keys Taken(set:$HaveKeys to True)]
+
+[[Step Away...->Bedroom]]
+
+
+
+:: Note {"position":"875,775","size":"100,100"}
+Jade, I'm headed out. I brought you food. Let's talk about last night when I get back?
+
+Paige.
+
+
+
+[[return...->Table]]
+
+
+:: Paige's Room {"position":"550,1200","size":"100,100"}
+You enter Paige's room, and recognize just how tidy it is. A stack of textbooks are lined up by the door, ordered by subject. Her desk is tucked in the corner by her bed. The sheets have just been changed. Her class schedule is printed neatly onto a calendar. You don't see her laptop anywhere, maybe she brought it with her?
+
+[[Calendar...->Calendar]]
+[[Desk...->Desk]]
+[[Textbooks...->Textbooks]]
+[[return...->Common Room]]
+
+
+
+
+:: Paige's Room Warning {"position":"600,975","size":"100,100"}
+You approach the door to Paige's room. A paper sign is neatly taped to the door, and reads "please knock"."
+
+[[Enter the Room.->Paige's Room]]
+[[Return...->Common Room]]
+
+
+:: Phone Call {"position":"1300,1050","size":"100,100"}
+Your finger hovers over the accept button... 
+[[but...->Ignore Call]]
+
+
+:: Player Death Save Bike {"position":"1325,2225","size":"100,100"}
+You take a deep breath, and push off down the stairs...
+
+(Live:10s)+(text-colour:#e03131)[The bike thrashes and tumbles violently, as it bounces down the stairs.]
+(Live:15s)+(text-colour:#e03131)[You are thrown from the seat.]
+(Live:20s)+(text-colour:#e03131)[You feel your body tumbling down the stairs.]
+(Live:25s)[Suddenly it stops.]
+
+(Live:30s)[oh god.]
+(Live:35s)[You are not okay.]
+(Live:37s)[You reach for the watch...]
+(Live:40s)+(text-colour:#e03131)[It's broken.]
+(Live:45s)[It must have been smashed in the fall.]
+(Live:50s)[unable to move, you try to cry.]
+(Live:55s)[you cant. it hurts too much.
+[[Close your eyes....->PlayerDeathEnding]]
+]
+
+
+:: Player Death Save Car {"position":"1375,3225","size":"100,100"}
+You step into the street. Someone is shouting.
+
+(Live:10s)+(text-colour:#e03131)[A bright light blinds you.]
+(Live:13s)+(text-colour:#e03131)[You feel an incredible amount of pain surge into your chest, and feel your body crumple...
+
+[[Close your eyes...->PlayerDeathEnding]]
+]
+
+
+:: PlayerDeathEnding {"position":"1675,4675","size":"100,100"}
+(set:$Minutes to $Minutes + 1)
+(text-style:"expand")[Error, 4:04.
+Paige not found]
+
+
+
+[[what now...]]
+
+
+:: PlayerLiveEndingBad {"position":"1875,4725","size":"100,100"}
+(set:$Minutes to $Minutes + 1)
+(text-style:"expand")[Error, 4:04.
+Paige not found]
+
+
+
+[[what now...]]
+
+
+:: PlayerLiveEndingGood {"position":"1025,4700","size":"100,100"}
+(set:$Minutes to $Minutes + 1)
+(text-style:"expand")[4:04
+Paige found]
+
+
+
+[[what now...]]
+
+
+:: Police Call {"position":"1150,3925","size":"100,100"}
+Navigate tons of phone menus to place tip, and eventually get them to close the bridge. after warning them, they close off the bridge, or you get lost in menus, and have to reset.
+
+[[bedroom3]]
+[[PlayerLiveEndingGood]]
+
+
+:: Refresh computer {"position":"825,375","size":"100,100"}
+(set:$Minutes to $Minutes + 1)
+(text-style:"expand")[404
+Page not found]
+
+
+
+Really? It must not be an issue on your end, something else is at work here... 
+This is the worst... your 5 page paper on the recent seizmic activity in the bay area is due at 6:00, and you need the time to get started on it...  Maybe you could use Paige's Lapt-{(live:3s)[oh yeah. never mind.(stop:)]}
+(Live:5s)[well... if shes not here than maybe?]
+
+
+[[Step away from computer...->Bedroom]]
+(if:$Laptop is True)[
+(Live:8s)[
+
+But since it's not working anyway, It's not your fault... ]
+(Live:10s)[//So...//]
+(Live:12s)[//To pass the time...//]
+(Live:15s)[[[Continue playing Majora's Mask?->COD]]]
+]
+
+(if:$Minutes > 60)[ (set:$Hour to ($Hour + 1))(set:$Minutes to $Minutes - 60)]
+(if:$Minutes < 10)[$Hour:0$Minutes]
+(else:)[$Hour:$Minutes]
+
+
+
+
+:: Roof {"position":"675,2400","size":"100,100"}
+Your not sure why you would want to be up here... but you can see the entire city from this point. 
+
+(if:$KnewName is True)[
+[[Return to the elevator...->Elevator]]
+]
+
+
+
+(Live:30s)[ah yes... you could wait here till 4:04... and watch to see where an accident happens.]
+(Live:31s)[
+[[wait...->See the accident]]
+]
+
+
+:: See the accident {"position":"600,3550","size":"100,100"}
+You stand on the rooftop, waiting for 4:04. Your eyes scan the city, desperately searching for any buildings that would collapse, or places that come under fire from the earthquake. Your heart sinks as you realize that your sister could be among any of these danger zones.
+(Live:10s)[Suddenly, you see it.]
+(Live:12s)[Your sister's Honda, stuck in traffic.]
+(Live:13s)[On a bridge...]
+(Live:15s)[BZZZ BZZZ BZZZ]
+(Live:16s)[It's 4:04.]
+(Live:18s)+(text-colour:#e03131)[The roof thrashes and rocks violently, almost  sending you off the side of the building.]
+(Live:23s)+(text-colour:#e03131)[You watch in horror, as the bridge collapses with a loud crash.]
+(Live:25s)+(text-colour:#e03131)[You stare in shock, as the small black honda is crushed under the debris.]
+(Live:27s)+(text-colour:#e03131)[You reach for your watch, but it's broken...]
+(Live:29s)[When did this happen? when you almost fell of the roof?]
+(Live:20s)[You collapse to the ground, realizing what this means...]
+[[Close your eyes...->PlayerLiveEndingBad]]
+
+
+
+
+:: Stairwell Warning {"position":"1375,2025","size":"100,100"}
+You open the door to the stairwell. It's very cold, and the four flights of stairs loom before you, menacingly. This suddenly doesn't seem like a great idea... 
+
+[[There's no time to waste...->Player Death Save Bike]]
+[[Head back...->Hallway]]
+
+
+:: Street {"position":"1100,2325","size":"100,100"}
+(if:$HaveBike is False)[you exit the apartment building after what feels like an eternity. You check your watch. It's 3:46. It's unlikely you will make it in time. Alternatively, you realize that the old building on Germaine's is being knocked down. Cutting through the contruction zone might save you just enough time...
+[[No, it's too risky...->mainroute01]]
+[[It's the only way...->shortcut]]
+](if:$HaveBike is True)[
+you exit the apartment building after what feels like an eternity. You check your watch. It's 3:55, just as you predicted. Even with the bike, it's cutting it close.
+[[continue...->mainroute01]]
+]
+
+
+
+
+
+
+:: TIMELINE3 {"position":"450,1925","size":"100,100"}
+[[Emotional success->emotional success]]
+[[emotional faliure->emotional faliure]]
+
+
+:: Table {"position":"725,750","size":"100,100"}
+The table is old, as evidened by the numerous past attempts from Dad to fix it's broken legs. They broke again just last month though, so Paige had to duck tape them. Examining the receipt on the table, you find Paige has written on it.
+
+[[Grocerie Bag]]
+[[Note...->Note]]
+[[Return...->Common Room]]
+
+
+:: Textbooks {"position":"750,950","size":"100,100"}
+The textbooks are neatly stacked, in order of subject. 
+
+"Physics, and why things move around the way they do"- Igues Seomedud
+"Computer Science and Engineering, and why computers work probably" - Mybe Aguy
+
+you thought she had more textbooks than two...
+
+[[Return...->Paige's Room]]
+
+
+:: Try to convince Jaime that there is a faster way...-> {"position":"1400,4150","size":"100,100"}
+There really isnt. Multiple dialogue options are here, but none work, all lead to a reset.
+
+[[bedroom3]]
+
+
+:: ask to speak to Paige...-> {"position":"1300,4300","size":"100,100"}
+Emotional dialogue options, heartfelt, try to convince Paige to turn the car around and come talk to you in person. Talk about the fight, etc.
+Faliure results in a reset.
+[[bedroom3]]
+[[PlayerLiveEndingGood]]
+
+
+:: bedroom3 {"position":"1400,3575","size":"100,100"}
+Now with Jamie's number, you call her, and she tells you that she and Paige are stuck in traffic on a bridge, because of some accident that happened on the bridge
+
+
+
+[[CommonRoom3]]
+[[Police Call]]
+[[Call Jamie]]
+
+
+:: break in {"position":"1525,4075","size":"100,100"}
+You attempt to break into a car on the street, but you don't know how... your caught
+[[bedroom3]]
+
+if you attempt this multiple times, you get better at it, and are able to break in, but you are unable to drive, so you crash the car, and have to reset
+[[bedroom3]]
+
+if you attempt this even more, you slowly learn to drive, and get further and further, eventually making it to the bridge 
+[[Bridge]]
+
+
+:: bus {"position":"1650,4075","size":"100,100"}
+the bus is incredibly slow. This path will always lead to a reset.
+
+[[bedroom3]]
+
+
+:: emotional faliure {"position":"125,2375","size":"100,100"}
+
+
+
+:: emotional success {"position":"425,2475","size":"100,100"}
+
+
+
+:: mainroute01 {"position":"1250,2750","size":"100,100"}
+(if:$HaveBike is False)[You sprint down the street. Your heart is racing, and your legs burn.
+[[Keep going...->mainroute02]]
+]
+
+(if:$HaveBike is True)[ You pedal down the street. Your heart is racing, and your legs burn.
+[[Keep going...->mainroute04]]
+]
+
+
+:: mainroute02 {"position":"1275,2950","size":"100,100"}
+A large crowd has gathered outside. You push through the hordes of people. You are getting really tired.
+
+
+[[keep going...->mainroute03]]
+
+
+
+:: mainroute03 {"position":"1150,3150","size":"100,100"}
+Your chest is burning really really badly. You are badly out of shape. Crosswalk ahead. Light is red.
+[[Catch breath, and wait for light->mainroute04]]
+[[No time->Player Death Save Car]]
+
+
+
+:: mainroute04 {"position":"1000,3350","size":"100,100"}
+You are approaching Jaime's house. Despite all the struggles, you are almost there. It's just around the corner...
+
+
+(if:$HaveBike is False and $Shortcut is False)[
+(live:6s)+(text-colour:#e03131)[The ground thrashes and tumbles violently, and people around you scream and panic.]
+(Live:8s)+(text-colour:#e03131)[You feel your phone stop buzzing in your pocket, as if it too was silenced.
+
+[[Reach for the watch....->......]]
+]]
+
+(if:$HaveBike is True or $Shortcut is True)[(Live:4s)[You turn the corner, and raise your hand to the door...]
+(Live:6s)[You knock several times.]
+(Live:8s)[The door opens.]
+(Live:10s)[A young woman answers the door. She isn't Paige or Jaime...
+did you get the wrong house??]
+(Live:12s)+(text-colour:#98E6FF)[Hi, can I help you?]
+(Live:14s)[yeah... you stutter, a little confused and worried now... you ask for Jaime.]
+(Live:16s)+(text-colour:#98E6FF)[Oh, sorry, Jaime just left with Paige... I'm her roomate...]
+(Live:18s)[Oh, okay, you mumble. You reach for you watch, but are interrupted...]
+(Live:20s)+(text-colour:#98E6FF)[I could give you Jaime's number? If you want to call and ask her when you will be back?]
+(Live: 21s)[yeah...
+(t8n:"slide-left")+(link:"Take Number")[Number Taken(set:$HaveNumber to True)]]
+(Live:24s)[This could change everything...
+You shout a hurried "Thank you!" before yanking the watch on your wrist
+[[Once more....-> ..]]]]
+
+
+
+:: reset2 {"position":"1025,1900","size":"100,100"}
+(t8n:"dissolve")+(t8n-time:10s)+(link-reveal:"Error 404
+Page not found")[=
+
+
+
+Blast. You would think that a university with such an elaborate computer science program wouldn't have this issue. Ah well. Maybe its a wifi issue?
+
+(set:$Attempts to ($Attemps +1))
+(Live:3s)[[[Lets try again....->Common Room2]]]
+
+
+:: scour the news... {"position":"600,2175","size":"100,100"}
+The accident hasn't happened yet. How would there be news of it?
+
+[[oh yeah... sorry im clicking random buttons...->Im unsure...]]
+
+
+:: shortcut {"position":"1125,2750","size":"100,100"}
+You peel through the construction zone. Nobody is here. You quickly make your way across a plank, when it suddenly breaks...
+
+(if:$Attempts is 1)[
+(Live:5s)+(text-colour:#e03131)[You are falling...]
+(Live:10s)[You manage to reach for the watch before you hit the ground...
+[[...->......]]
+
+]
+]
+
+(if:$Attempts > 1)[But your ready for it this time. You nimbly leap as it breaks under you, and continue...
+(set:$Shortcut to True)
+[[Onwards...->mainroute04]]
+]
+
+
+
+
+:: sit down to eat {"position":"1025,1000","size":"100,100"}
+You sit at the table with your ramen, with only the large rice bag to keep you company. It's hot, so you gingerly sip at it while scrolling through your phone...
+
+(Live:5s)[BZZZZZZ BZZZZZZ BZZZZZ]
+
+(Live:6s)[Your phone is ringing.
+It's from Paige. 
+
+[[Answer Phone->Phone Call]]
+[[Ignore Phone->Ignore Call]]
+]
+
+
+
+
+
+
+:: watch breaks {"position":"1500,2850","size":"100,100"}
+if the watch breaks, you lose the ability to time travel. Describe how it shatters. 
+[[PlayerLiveEndingBad]]
+
+
+:: what now... {"position":"1475,5050","size":"100,100"}
+You have finished the game. If you are unsatisfied with your ending, try playing it again! Note: if you want to skip the long earthquake scene, scroll down after ignoring the phone call.
+
+
+[[Play again...->Content Warning]]
+
+
+:: StoryStylesheet [stylesheet]
+tw-sidebar
+{
+	display: none;
+}
